@@ -1,0 +1,290 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8/7/2014 12:15:23 PM
+
+BeginCmp
+TimeStamp = /53AD118A;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD2EE2;
+Reference = C2;
+ValeurCmp = 10uF/16V;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD30C3;
+Reference = C3;
+ValeurCmp = 10uF/16V;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C54CB3;
+Reference = C11;
+ValeurCmp = 1uF/15V;
+IdModule  = Ideonics_Electrolytic_CV5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1199;
+Reference = D1;
+ValeurCmp = LED_RF_ASIND;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C53FCE;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C53FE1;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1F06;
+Reference = D4;
+ValeurCmp = LED_PWR_3.3V;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1EE8;
+Reference = D5;
+ValeurCmp = LED_RF_RX;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1EF7;
+Reference = D6;
+ValeurCmp = LED_RX_TX;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD277A;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = 4PIN_TB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C5641A;
+Reference = P2;
+ValeurCmp = PRG_CONN;
+IdModule  = Ideonics_RMC_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FE05A7;
+Reference = P4;
+ValeurCmp = CONN_5;
+IdModule  = Ideonics_COMBICON_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /533BB697;
+Reference = P5;
+ValeurCmp = CONN_8;
+IdModule  = Ideonics_RMC_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /531ACA70;
+Reference = P8;
+ValeurCmp = CONN_4;
+IdModule  = Ideonics_RMC_4Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /531ACE3B;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /531ACE08;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /531ACE2C;
+Reference = P11;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /531ACE4A;
+Reference = P12;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /52CA6576;
+Reference = P15;
+ValeurCmp = CONN_5X2;
+IdModule  = he10-10d;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EABA;
+Reference = Q1;
+ValeurCmp = TIP127;
+IdModule  = Ideonics_TIP127;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EAC7;
+Reference = Q2;
+ValeurCmp = TIP127;
+IdModule  = Ideonics_TIP127;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EAD2;
+Reference = Q3;
+ValeurCmp = TIP127;
+IdModule  = Ideonics_TIP127;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EAD8;
+Reference = Q4;
+ValeurCmp = TIP127;
+IdModule  = Ideonics_TIP127;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EC11;
+Reference = R2;
+ValeurCmp = 2.2K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EC1E;
+Reference = R3;
+ValeurCmp = 2.2K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EC24;
+Reference = R4;
+ValeurCmp = 2.2K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EC2D;
+Reference = R5;
+ValeurCmp = 2.2K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C53FBF;
+Reference = R9;
+ValeurCmp = 1K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C53FDB;
+Reference = R10;
+ValeurCmp = 1K;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C54C90;
+Reference = R11;
+ValeurCmp = 1M;
+IdModule  = Ideonics_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /5395E6FA;
+Reference = R13;
+ValeurCmp = 0;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD11A8;
+Reference = R14;
+ValeurCmp = 470;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1EBB;
+Reference = R15;
+ValeurCmp = 470;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1ECA;
+Reference = R16;
+ValeurCmp = 470;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD1ED9;
+Reference = R17;
+ValeurCmp = 470;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AD2BF2;
+Reference = R18;
+ValeurCmp = 4.7K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52C54C9C;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Ideonics_Micro_Switch;
+EndCmp
+
+BeginCmp
+TimeStamp = /5278EB6F;
+Reference = U1;
+ValeurCmp = ULN2003A;
+IdModule  = Idenoics_ULN2003;
+EndCmp
+
+BeginCmp
+TimeStamp = /53AFCD55;
+Reference = U2;
+ValeurCmp = XBEE;
+IdModule  = XBee-pro;
+EndCmp
+
+BeginCmp
+TimeStamp = /53B24F0D;
+Reference = U3;
+ValeurCmp = PIC18F4520;
+IdModule  = DIP-40__600;
+EndCmp
+
+EndListe
