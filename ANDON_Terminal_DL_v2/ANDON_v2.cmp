@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8/7/2014 12:15:23 PM
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8/15/2016 3:42:08 PM
 
 BeginCmp
 TimeStamp = /53AD118A;
@@ -81,7 +81,7 @@ BeginCmp
 TimeStamp = /52C5641A;
 Reference = P2;
 ValeurCmp = PRG_CONN;
-IdModule  = Ideonics_RMC_5;
+IdModule  = SIL-5;
 EndCmp
 
 BeginCmp

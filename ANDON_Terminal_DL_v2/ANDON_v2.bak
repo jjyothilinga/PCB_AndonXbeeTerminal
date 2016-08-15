@@ -38,7 +38,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "1 jul 2014"
+Date "15 aug 2016"
 Rev ""
 Comp ""
 Comment1 ""
@@ -347,14 +347,14 @@ F 3 "~" H 15300 3150 60  0000 C CNN
 	1    15300 3150
 	1    0    0    -1  
 $EndComp
-Text Label 14550 2950 0    39   ~ 0
+Text Label 14550 3150 0    39   ~ 0
 GND
 Text Label 14550 3050 0    39   ~ 0
 VCC
 Text Label 14550 3250 0    39   ~ 0
-PGC
-Text Label 14550 3350 0    39   ~ 0
 PGD
+Text Label 14550 3350 0    39   ~ 0
+PGC
 Text Label 2500 1950 0    39   ~ 0
 VCC_24
 Text Label 12450 4650 0    39   ~ 0
@@ -1032,7 +1032,7 @@ Wire Wire Line
 	9800 3100 9800 3050
 Wire Wire Line
 	9800 2550 9800 2450
-Text Label 14550 3150 0    39   Italic 8
+Text Label 14550 2950 0    39   Italic 8
 RESET
 $Comp
 L XBEE U2
@@ -1046,10 +1046,10 @@ F 3 "" H 4300 10000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L PIC18F4520 U?
+L PIC18F4520 U3
 U 1 1 53B24F0D
 P 8050 2700
-F 0 "U?" H 8050 4650 60  0000 C CNN
+F 0 "U3" H 8050 4650 60  0000 C CNN
 F 1 "PIC18F4520" H 8050 750 60  0000 C CNN
 F 2 "" H 8050 2700 60  0000 C CNN
 F 3 "" H 8050 2700 60  0000 C CNN
